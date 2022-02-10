@@ -22,7 +22,7 @@ Current limitations:
 
 The flowchart of the implementation can be seen below. Notation comes from the [QAOA paper](https://arxiv.org/abs/1411.4028)).
 
-<img src="https://github.com/dlasecki/QAOA-MicrosoftQuantumLibraries/blob/master/resources/flowchart.svg" alt="qaoa-flowchart" border="0" width="200%"/></a><br />
+<img src="./docs/images/flowchart.svg" alt="qaoa-flowchart" border="0" width="200%"/></a><br/>
 Dependencies:
 
 1) [Q# and Microsoft Quantum Libraries](https://docs.microsoft.com/en-us/quantum/language/)
